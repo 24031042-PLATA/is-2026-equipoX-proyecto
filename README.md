@@ -1,5 +1,11 @@
 # is-2026-equipoX-proyecto
-Hola# Proyecto IS 2026 - Equipo X
+# Universidad Politécnica de Guanajuato
+## Ingeniería en Datos e Inteligencia Artificial
+### Ingeniería de Software (7° Cuatrimestre)
 
-- Integrante 1: Emmanuel
-- Integrante 2: ...   
+**Práctica No. 1:** Configuración de Entorno Colaborativo con Git/GitHub y Tableros Kanban
+
+**Integrantes del Equipo:**
+* EMMANUEL BARRIENTOS DELGADO
+* OSWALDO GUERRERO GARCIA
+* EMMANUEL PLATA GARCIA
