@@ -1,9 +1,9 @@
 # Reporte Técnico de Selección y Justificación Metodológica
-**Asignatura:** Ingeniería de Software | **Unidad 1:** Cierre Sumativo
-**Proyecto Final:** Plataforma Inteligente de Procesamiento, Estandarización y Análisis de Datos
-**Equipo de Desarrollo:** Equipo (Emmanuel Barrientos Delgado, Oswaldo Guerrero García, Emmanuel Plata García) | **Fecha:** 21/10/2026
+**Asignatura:** Ingeniería de Software | **Unidad 1:** Cierre Sumativo.
+**Proyecto Final:** Plataforma de Procesamiento, Estandarización y Análisis de Datos.
+**Equipo de Desarrollo:** Datermos. | **Fecha:** 21/10/2026
 
----
+
 
 ## 1. Caracterización del Sistema y Entorno de Proyecto
 - **Ámbito de Dominio:** Procesamiento de Datos, Inteligencia Artificial y Visualización Analítica.
@@ -26,7 +26,7 @@
 | Velocidad de Entrega | Software operativo únicamente al final del ciclo de vida. | Incrementos funcionales cortos de software valioso y desplegable. | Entregas incrementales en Sprints cortos, priorizando el núcleo de ingesta y limpieza desde el Sprint 1. |
 
 ## 3. Justificación Fundada de la Metodología Seleccionada
-- **Metodología Seleccionada:** Híbrido Scrum - Extreme Programming
+- **Metodología Seleccionada:** Híbrido Scrum 
 - **Argumentación Técnica Fundamentada:**
   La elección de un enfoque **Híbrido Scrum-XP** se fundamenta en los principios de Ian Sommerville (*Ingeniería de Software*, Cap. 2 - Procesos del Software), adaptados a los requerimientos de la asignatura y la naturaleza del proyecto:
   1. *Reducción del Riesgo y Costo de Cambio (Sommerville, Cap. 2):* Los proyectos de Inteligencia Artificial y canalizaciones de datos sufren fluctuaciones en la definición de esquemas y desempeño de los modelos. La estructura en **Sprints de Scrum** permite abordar la incertidumbre iterativamente, priorizando historias de mayor valor o riesgo (como la ingesta y preprocesamiento en el Sprint 1) sobre las secundarias (exportación PDF o Dashboards avanzados).
