@@ -73,4 +73,3 @@ Incluye los siguientes documentos:
 8. Plan de pruebas.
 
 
-## Revisión de Unidad 2
